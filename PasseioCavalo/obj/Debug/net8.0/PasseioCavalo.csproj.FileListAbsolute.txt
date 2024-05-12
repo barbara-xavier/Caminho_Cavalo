@@ -1,0 +1,14 @@
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\bin\Debug\net8.0\PasseioCavalo.exe
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\bin\Debug\net8.0\PasseioCavalo.deps.json
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\bin\Debug\net8.0\PasseioCavalo.runtimeconfig.json
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\bin\Debug\net8.0\PasseioCavalo.dll
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\bin\Debug\net8.0\PasseioCavalo.pdb
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.AssemblyInfoInputs.cache
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.AssemblyInfo.cs
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.csproj.CoreCompileInputs.cache
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.dll
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\refint\PasseioCavalo.dll
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.pdb
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\PasseioCavalo.genruntimeconfig.cache
+D:\Bárbara\FACULDADE BARBARA\Trabalhos e ATV - 4 semestre\PasseioCavalo\PasseioCavalo\obj\Debug\net8.0\ref\PasseioCavalo.dll

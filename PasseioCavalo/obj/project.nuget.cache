@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9lkgul0Tqezg4cE5l7yi1uUypImTY9dY2edhYSCjlJeImmJwPlZXUoSyqg/v4YDeO0C4MiAUTQ5G0B8qTVpwQ==",
+  "success": true,
+  "projectFilePath": "D:\\Bárbara\\FACULDADE BARBARA\\Trabalhos e ATV - 4 semestre\\PasseioCavalo\\PasseioCavalo\\PasseioCavalo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barbara Xavier\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\Barbara Xavier\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\Barbara Xavier\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
